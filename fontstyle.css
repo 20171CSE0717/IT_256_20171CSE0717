@@ -1,0 +1,27 @@
+h1.big{
+font-weight:bold;
+font-style:normal;
+font-family:Georgia serif;
+word-spacing:5px;
+font-size:medium;
+color:red
+}
+p.medium
+{
+font-weight:bolder;
+font-style:italic;
+font-family:Times New Roman'monospaced;
+word-spacing:10px;
+font-size:large;
+color:blue
+}
+
+h2.small
+
+{
+font-weight:lighter;
+font-family:Courier New Lucida Console;
+word-spacing:3px;
+color:green
+}
+
